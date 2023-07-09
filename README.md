@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/209/1020/desktop-wallpaper-best-5-data-science-backgrounds-on-hip-data-science.jpg)
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/209/1020/desktop-wallpaper-best-5-data-science-backgrounds-on-hip-data-science.jpg)
 <h1 align="center">Hi 👋, I'm OZCAN AKYUZ</h1>
 <h3 align="center">I am an innovative and unique frontend developer</h3>
 
