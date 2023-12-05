@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanakyuz&" alt="ozcanakyuz" /></p>
 
-![snake animation](https://github.com/<seuozcanakyuz>/<seuozcanakyuz>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<ozcanakyuz>/<ozcanakyuz>/blob/output/github-contribution-grid-snake2.svg)
