@@ -1,4 +1,4 @@
-![MasterHead][<img url="https://i.hizliresim.com/5s289bi.jpg"><img/>]
+
 <h1 align="center">Hi 👋, I'm OZCAN AKYUZ</h1>
 <h3 align="center">I am an innovative and unique frontend developer</h3>
 
