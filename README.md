@@ -44,6 +44,9 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ozcanakyuz&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p>
+  <img align="center" src="https://streak-stats.demolab.com?user=ozcanakyuz" alt="GitHub Streak Stats" />
+</p>
+<p>
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ozcanakyuz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>
