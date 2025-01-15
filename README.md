@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Currently Focused On:** Back-End Development  
-- 💬 **Expertise In:** Front-End Development & Back-End Development
+- 💬 **Expertise In:** Front-End Development  
 - 📫 **Reach Me At:** [akyzozcan@gmail.com](mailto:akyzozcan@gmail.com)  
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozcanakyuz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -49,7 +49,6 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozcanakyuz&" alt="GitHub Streak Stats" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ozcanakyuz&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
