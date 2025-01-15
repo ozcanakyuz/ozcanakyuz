@@ -49,4 +49,30 @@
 <p>
   <img align="center" src="https://streak-stats.demolab.com?user=ozcanakyuz" alt="GitHub Streak Stats" />
 </p>
+---
+
+### 🚀 Featured Projects
+- [MyPortfolio](https://github.com/ozcanakyuz/MyPortfolio) - A personal portfolio website built with ASP.NET, JavaScript, and jQuery.
+- [Perispanya](https://github.com/ozcanakyuz/Perispanya) - A bakery website with an admin panel for managing categories and products.
+- [PostgreSQL .NET App](https://github.com/ozcanakyuz/sample-dotnet-postgresql) - A .NET desktop application integrated with PostgreSQL.
+
+---
+
+### 🎯 Current Goals
+- Improving skills in **Back-End Development** (C#, .NET, SQL).  
+- Exploring modern JavaScript frameworks like **React** and **Angular**.  
+- Building full-stack projects to strengthen development experience.
+
+---
+
+### 📚 Certifications
+- **Telc B2 German Certificate**  
+- **HTML, CSS, and JavaScript Certification**  
+- **Python and Django Certification**  
+- **C# and .NET Framework Certification**  
+
+---
+
+### 🌟 Fun Fact
+I've been involved in fitness for over 8 years and worked as a fitness trainer for 4 years. I love applying discipline from fitness into my coding journey!
 
